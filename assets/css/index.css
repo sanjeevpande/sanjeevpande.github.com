@@ -1,9 +1,8 @@
-body{
-    background-color: #A18A8F;
+
+body {
+   /*background-color: #508B8B;*/
+   background-image: url("../images/spider.jpg");
 }
-.rule{
-    background-color:  aliceblue;
-    height: 30px;
-    opacity: .12;
-    border-radius: 5px;
+.rule {
+
 }

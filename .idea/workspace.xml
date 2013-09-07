@@ -10,7 +10,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="cffd6b44-5197-468b-8174-d3280c031c85" time="1378571288988" ignored="false" />
     <file path="/index.html" changelist="cffd6b44-5197-468b-8174-d3280c031c85" time="1378574240009" ignored="false" />
-    <file path="/index.css" changelist="cffd6b44-5197-468b-8174-d3280c031c85" time="1378574735585" ignored="false" />
+    <file path="/index.css" changelist="cffd6b44-5197-468b-8174-d3280c031c85" time="1378579268199" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="30" selection-start="679" selection-end="679" vertical-scroll-proportion="-17.76923">
+            <state line="7" column="30" selection-start="245" selection-end="245" vertical-scroll-proportion="-5.923077">
               <folding />
             </state>
           </provider>
@@ -42,7 +42,7 @@
       <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="1" selection-start="141" selection-end="141" vertical-scroll-proportion="0.27804106">
+            <state line="3" column="42" selection-start="84" selection-end="84" vertical-scroll-proportion="0.1042654">
               <folding />
             </state>
           </provider>
@@ -271,14 +271,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="30" selection-start="679" selection-end="679" vertical-scroll-proportion="-17.76923">
+        <state line="7" column="30" selection-start="245" selection-end="245" vertical-scroll-proportion="-5.923077">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="1" selection-start="141" selection-end="141" vertical-scroll-proportion="0.27804106">
+        <state line="3" column="42" selection-start="84" selection-end="84" vertical-scroll-proportion="0.1042654">
           <folding />
         </state>
       </provider>
