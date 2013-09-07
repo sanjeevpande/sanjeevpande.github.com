@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cffd6b44-5197-468b-8174-d3280c031c85" name="Default" comment="" />
+    <list default="true" id="cffd6b44-5197-468b-8174-d3280c031c85" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/index.css" afterPath="$PROJECT_DIR$/assets/css/index.css" />
+    </list>
     <ignored path="sanjeevpande.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="cffd6b44-5197-468b-8174-d3280c031c85" time="1378580349340" ignored="false" />
+    <file path="/Dummy.txt" changelist="cffd6b44-5197-468b-8174-d3280c031c85" time="1378580888432" ignored="false" />
     <file path="/index.html" changelist="cffd6b44-5197-468b-8174-d3280c031c85" time="1378579466915" ignored="false" />
     <file path="/index.css" changelist="cffd6b44-5197-468b-8174-d3280c031c85" time="1378580594458" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +31,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="60" selection-start="203" selection-end="203" vertical-scroll-proportion="0.18121912">
+            <state line="3" column="101" selection-start="130" selection-end="130" vertical-scroll-proportion="0.10873146">
               <folding />
             </state>
           </provider>
@@ -38,7 +40,7 @@
       <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="29" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
+            <state line="12" column="24" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -99,7 +101,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -134,6 +135,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,6 +262,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="29" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -281,14 +297,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="29" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
+        <state line="12" column="24" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="60" selection-start="203" selection-end="203" vertical-scroll-proportion="0.18121912">
+        <state line="3" column="101" selection-start="130" selection-end="130" vertical-scroll-proportion="0.10873146">
           <folding />
         </state>
       </provider>
