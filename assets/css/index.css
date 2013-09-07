@@ -1,0 +1,9 @@
+body{
+    background-color: #A18A8F;
+}
+.rule{
+    background-color:  aliceblue;
+    height: 30px;
+    opacity: .12;
+    border-radius: 5px;
+}
