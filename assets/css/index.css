@@ -62,3 +62,53 @@ li{
 	font-size: 126px;
 	font-family: Archive;
 }
+/*.about{
+	height: 60px;
+	width: 20px;
+	border-radius: 50%;
+	background-color: red;
+	float: right;
+	margin-right: 30px;	
+	margin-top: 40px;
+	
+}
+.work{
+	height: 60px;
+	width: 20px;
+	border-radius: 50%;
+	background-color: red;
+	float: right;
+	margin-right: 30px;
+	margin-top: -60px;
+	opacity: 0.1;
+}*/
+
+
+.a{
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	background-color: #2ecc71;
+	float: right;
+	margin-right: 120px;
+	opacity: 0.6;
+}
+.w{
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	background-color: red;
+	float: right;
+	margin-right: -50px;
+	opacity: 0.6;
+}
+.c{
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	background-color: #8e44ad;
+	float: right;
+	margin-right: -155px;
+	opacity: 0.6;
+	margin-top: 38px;	
+}
