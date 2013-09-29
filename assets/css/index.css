@@ -1,13 +1,64 @@
-
-body {
-   /*background-color: #508B8B;*/
-   background: url("../images/spider.jpg") no-repeat;
+*{
+	margin: 0;
+}
+@font-face
+{
+	font-family: Adamas-Regular;
+	src: url('../fonts/Adamas-Regular.otf');
+}
+@font-face
+{
+	font-family: FlexDisplay-Thin;
+	src: url('../fonts/FlexDisplay-Thin.otf');
+}
+@font-face
+{
+	font-family: Vetka;
+	src: url('../fonts/Vetka.otf');
+}
+@font-face
+{
+	font-family: Archive;
+	src: url('../fonts/Archive.otf');
+}
+@font-face
+{
+	font-family: Weston Free;
+	src: url('../fonts/Weston Free.otf');
 }
 .name{
-    font-size: 4em;
-    font-style: normal;
-    font-weight: bold;
-    margin-left: 550px;
-    margin-top: 100px;
-    text-decoration: underline;
+	font-size: 48px;
+	font-weight: bold;
+	padding-top: 40px;
+	text-align: center;
+	font-family: Adamas-Regular;
+	color: #16a085;
+	font-weight: bold;
+	padding-bottom: 25px;
+}
+li{
+	list-style-type: none;
+}
+.links{
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	background-color: #2ecc71;
+	float: right;
+	margin-right: 100px;
+}
+.paint{
+	padding-top: 170px;
+	font-size: 32px;
+	font-family: Archive;
+}
+.desc{
+	padding-top: 40px;
+	font-size: 22px;
+	font-family: Weston Free;
+	color: #666666;
+}
+.codes{
+	font-size: 126px;
+	font-family: Archive;
 }
