@@ -92,6 +92,10 @@ li{
 	float: right;
 	margin-right: 120px;
 	opacity: 0.6;
+	animation: rotate 5s;
+	-webkit-animation: rotate 5s;
+	animation-delay: 0.4s;
+	-webkit-animation-delay: 0.4s;
 }
 .w{
 	height: 120px;
@@ -101,6 +105,10 @@ li{
 	float: right;
 	margin-right: -50px;
 	opacity: 0.6;
+	animation: rotate 5s;
+	-webkit-animation: rotate 5s;
+	animation-delay: 0.4s;
+	-webkit-animation-delay: 0.4s;
 }
 .c{
 	height: 120px;
@@ -110,5 +118,25 @@ li{
 	float: right;
 	margin-right: -155px;
 	opacity: 0.6;
-	margin-top: 38px;	
+	margin-top: 38px;
+	animation: rotate 2s;
+	-webkit-animation: rotate 2s;
+	animation-delay: 0.4s;
+	-webkit-animation-delay: 0.4s;
+	animation-iteration-count: 2;
+	-webkit-animation-iteration-count: 2;
+	/*animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-play-state: running;*/
+}
+@keyframes rotate
+{
+from {transform : rotateY(0deg);}
+to {transform : rotateY(360deg)}
+}
+
+@-webkit-keyframes rotate
+{
+from {-webkit-transform : rotateY(0deg)}
+to {-webkit-transform : rotateY(360deg)}
 }
